@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+  color: bisque;
+  background-color: rgba(0, 0, 0, 0.562);
+  width: 100%;
+  
+}
+body{
+  background-image: url('./image/image2.jpg');
+  background-size: cover;
+}
+
+h1{
+  font-size: 70px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.text{
+  font-size: 40px;
+  font-weight: bolder;
+  padding-top: 30px;
+}
+textarea{
+  margin-left: 20px;
+}
+.image{
+  font-size: 40px;
+  font-weight: bolder;
+  padding-top: 30px;
+  margin-left: 140px;
+}
+.video{
+  font-size: 40px;
+  font-weight: bolder;
+  padding-top: 30px;
+  margin-left: 140px;
+}
+.font{
+  font-size: 40px;
+  font-weight: bolder;
+  padding-top: 30px;
+  margin-left: 1px;
+}
+select{
+  margin-left: 40px;
+}
+
+button{
+  font-size: 20px;
+  font-weight: bolder;
+  margin-top: 30px;
+  box-shadow: 6px 8px 6px;
+}
+input{
+  padding-left: 40px;
+}
